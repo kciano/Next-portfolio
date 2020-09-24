@@ -1,0 +1,14 @@
+h1, h3, p {
+    
+    text-align-last: center;
+}
+
+.imageClass {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
